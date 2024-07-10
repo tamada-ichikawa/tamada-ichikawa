@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+[![tamada-ichikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamada-ichikawa&theme=vue-dark&show_icons=true)](https://github.com/tamada-ichikawa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamada-ichikawa&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/tamada-ichikawa/github-readme-stats)
+
+
 <!--
 **tamada-ichikawa/tamada-ichikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
